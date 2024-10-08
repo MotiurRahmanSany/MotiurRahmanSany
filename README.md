@@ -11,7 +11,7 @@ I’m a passionate **Software Developer** specializing in **mobile app developme
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-  <a href="https://linkedin.com/in/motiur-rahman-405506272" target="blank">
+  <a href="https://www.linkedin.com/in/motiur-rahman-405506272/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="motiur-rahman-405506272" height="30" width="40" />
   </a>  
 </p>  
