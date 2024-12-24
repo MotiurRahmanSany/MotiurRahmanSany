@@ -58,6 +58,4 @@ I’m a passionate **Software Developer** specializing in **mobile app developme
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=motiurrahmansany&show_icons=true&locale=en" alt="motiurrahmansany" />
 </p>  
   
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=motiurrahmansany&" alt="motiurrahmansany" />
-</p>  
+
